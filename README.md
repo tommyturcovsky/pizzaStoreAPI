@@ -2,15 +2,42 @@
 
 Team Name: Super Squad CGT
 
-Members: Antoinette Cheryl, Gobie Mohseni, Tommy Turcovsky
+Members: Tommy Turcovsky, Antoinette Cheryl, Gobie Mohseni
 
-GitHub usernames: apcheryl, gmohseni, tommyturcovsky
+GitHub usernames: tommyturcovsky, apcheryl, gmohseni
 
-Emails: cheryl.a@husky.neu.edu, mohseni.g@husky.neu.edu, turcovsky.t@husky.neu.edu 
+Emails: tommyturcovsky@gmail.com, cheryl.a@husky.neu.edu, mohseni.g@husky.neu.edu
+
+## API Documentation
+
+https://lit-eyrie-78060.herokuapp.com/
 
 
+## Front-End Web Application using the API
 
-## Setup Instructions
+https://pizza-my-heart.glitch.me/
+
+
+## Video Presentation about the API
+
+https://www.youtube.com/watch?v=rujBwaNpNYI
+
+
+## Design Document
+
+https://docs.google.com/document/d/1U52P1Ono1oX9Wcu284Jh4AZLJcBdYv4no1IhZgoi2j4/edit?usp=sharing
+
+
+## The Presentation Slides
+https://drive.google.com/file/d/1BVpB0ifj_-L8D17cEZzGGxbvvEWoQgaT/view?usp=sharing
+
+
+## Project Report
+
+https://docs.google.com/document/d/1UEUkCrkLfIsXcV9ty_Yd4-vL-akljfXdDq6khEigB70/edit?usp=sharing
+
+
+## Local Setup Instructions
 
 1. Install MongoDB on your machine. 
    Click here for more information on installing and running MongoDB: 
@@ -71,41 +98,3 @@ Enter the following command to run Spring Boot locally:
    ```
    mvn verify
    ```
-
-
-
-
-## Pizza My Heart Heroku App
-
-https://lit-eyrie-78060.herokuapp.com/
-
-
-
-## Video Presentation
-
-https://www.youtube.com/watch?v=rujBwaNpNYI
-
-
-
-## Slides Presentation
-https://drive.google.com/file/d/1BVpB0ifj_-L8D17cEZzGGxbvvEWoQgaT/view?usp=sharing
-
-
-
-## Design Document
-
-https://docs.google.com/document/d/1U52P1Ono1oX9Wcu284Jh4AZLJcBdYv4no1IhZgoi2j4/edit?usp=sharing
-
-
-
-## Project Report
-
-https://docs.google.com/document/d/1UEUkCrkLfIsXcV9ty_Yd4-vL-akljfXdDq6khEigB70/edit?usp=sharing
-
-
-## Web App
-
-https://pizza-my-heart.glitch.me/
-
-
-
