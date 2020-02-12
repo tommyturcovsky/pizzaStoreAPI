@@ -47,7 +47,7 @@ https://drive.google.com/file/d/1BVpB0ifj_-L8D17cEZzGGxbvvEWoQgaT/view?usp=shari
 4. Go into the pizzastore subdirectory to run the application.
 
 
-## Create a new Heroku Instance
+### Create a new Heroku Instance
 
 1. Login to Heroku
    ```
@@ -59,7 +59,7 @@ https://drive.google.com/file/d/1BVpB0ifj_-L8D17cEZzGGxbvvEWoQgaT/view?usp=shari
    ```
 
 
-## Running the App on Heroku
+### Running the App on Heroku
 
 1. Start running MongoDB. 
    When using Brew, the following command line may be used:
@@ -80,7 +80,7 @@ https://drive.google.com/file/d/1BVpB0ifj_-L8D17cEZzGGxbvvEWoQgaT/view?usp=shari
    ```
 
 
-## Running the App Locally
+### Running the App Locally
 
 Enter the following command to run Spring Boot locally:
    ```
@@ -88,7 +88,7 @@ Enter the following command to run Spring Boot locally:
    ```
 
 
-## Running Tests
+### Running Tests
 
 1. Enter the following command to check if the project is correct and has all of the necessary information:
    ```
