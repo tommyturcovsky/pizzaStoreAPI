@@ -23,6 +23,11 @@ https://pizza-my-heart.glitch.me/
 https://www.youtube.com/watch?v=rujBwaNpNYI
 
 
+## Project Report
+
+https://docs.google.com/document/d/1UEUkCrkLfIsXcV9ty_Yd4-vL-akljfXdDq6khEigB70/edit?usp=sharing
+
+
 ## Design Document
 
 https://docs.google.com/document/d/1U52P1Ono1oX9Wcu284Jh4AZLJcBdYv4no1IhZgoi2j4/edit?usp=sharing
@@ -30,11 +35,6 @@ https://docs.google.com/document/d/1U52P1Ono1oX9Wcu284Jh4AZLJcBdYv4no1IhZgoi2j4/
 
 ## The Presentation Slides
 https://drive.google.com/file/d/1BVpB0ifj_-L8D17cEZzGGxbvvEWoQgaT/view?usp=sharing
-
-
-## Project Report
-
-https://docs.google.com/document/d/1UEUkCrkLfIsXcV9ty_Yd4-vL-akljfXdDq6khEigB70/edit?usp=sharing
 
 
 ## Local Setup Instructions
